@@ -1,0 +1,16 @@
+.page{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2em;
+}
+
+.ballots {
+    width: fit-content;
+    margin: 1em;
+}
+    
+.toFrom {
+    width: fit-content;
+    margin-bottom: 2em;
+}
